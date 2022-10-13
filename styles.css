@@ -13,10 +13,10 @@ a {
 }
 
 html {
-  --bg-color: #EDF2FF;
-  --text-color: #00082F;
-  --primary-color: #4263EB;
-  --primary-color-dark: #364FC7;
+  --bg-color: #121214;
+  --text-color: #E1E1E6;
+  --primary-color: #5b21b6;
+  --primary-color-dark: #8b5cf6;
 }
 
 body.dark-blue {
